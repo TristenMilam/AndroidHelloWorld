@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1468dd"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello from Tristen!"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop = "50dp"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click to change text color"
+        android:background="#cfb2ea"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="20dp"
+        android:textSize="30sp"
+        android:layout_alignParentBottom="true" />
+
+    <TextView
+        android:id="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click to change background"
+        android:background="#cfb2ea"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="90dp"
+        android:textSize="30sp"
+        android:layout_alignParentBottom="true" />
+
+    <TextView
+        android:id="@+id/button3"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click to change text"
+        android:background="#cfb2ea"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="160dp"
+        android:textSize="30sp"
+        android:layout_alignParentBottom="true" />
+
+    <EditText
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint = "Enter text here"
+        android:ems ="6"
+        android:textSize="20sp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="445dp"
+        />
+
+    <TextView
+        android:id="@+id/button4"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit text"
+        android:background="#cfb2ea"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="400dp"
+        android:textSize="15sp"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>
