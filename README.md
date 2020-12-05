@@ -1,10 +1,10 @@
 ## Hello World
 
 ### App Description
-This simple app displays "Hello from Tristen" to the user, and allows them to change the color of the text by pressing a button. You are able to go back and forth between black and white text.
+This simple app displays "Hello from Tristen" to the user, and allows them to change the color of the text by pressing a button. There are several other buttons which do different tasks, and all are very self explanatory.
 
 ### App Walkthrough
-Simply click the button to change the color of the text, shown in the gif below
+Simply click each button to do whatever it describes, shown in the gif below
 
 <img src="http://g.recordit.co/Pbp0M1fv09.gif" width=200><br>
 
