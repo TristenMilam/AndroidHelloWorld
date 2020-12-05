@@ -7,7 +7,7 @@ This simple app displays "Hello from Tristen" to the user, and allows them to ch
 ### App Walkthrough
 Simply click the button to change the color of the text, shown in the gif below
 
-<img src="https://recordit.co/pJKIqo0BxI" width=200><br>
+<img src="http://g.recordit.co/pJKIqo0BxI.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
